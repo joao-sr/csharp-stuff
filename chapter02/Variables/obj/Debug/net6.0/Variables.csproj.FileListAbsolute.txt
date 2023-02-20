@@ -1,0 +1,15 @@
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\bin\Debug\net6.0\Variables.exe
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\bin\Debug\net6.0\Variables.deps.json
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\bin\Debug\net6.0\Variables.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\bin\Debug\net6.0\ref\Variables.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\bin\Debug\net6.0\Variables.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\obj\Debug\net6.0\Variables.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\obj\Debug\net6.0\ref\Variables.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\obj\Debug\net6.0\Variables.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache

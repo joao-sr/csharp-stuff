@@ -1,0 +1,15 @@
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\obj\Debug\net6.0\exercise02.csproj.AssemblyReference.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\obj\Debug\net6.0\exercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\obj\Debug\net6.0\exercise02.AssemblyInfoInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\obj\Debug\net6.0\exercise02.AssemblyInfo.cs
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\obj\Debug\net6.0\exercise02.csproj.CoreCompileInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\bin\Debug\net6.0\exercise02.exe
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\bin\Debug\net6.0\exercise02.deps.json
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\bin\Debug\net6.0\exercise02.runtimeconfig.json
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\bin\Debug\net6.0\exercise02.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\bin\Debug\net6.0\ref\exercise02.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\bin\Debug\net6.0\exercise02.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\obj\Debug\net6.0\exercise02.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\obj\Debug\net6.0\ref\exercise02.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\obj\Debug\net6.0\exercise02.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter02\exercise02\obj\Debug\net6.0\exercise02.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\obj\Release\net6.0\Instrumenting.csproj.AssemblyReference.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\obj\Release\net6.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\obj\Release\net6.0\Instrumenting.AssemblyInfoInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\obj\Release\net6.0\Instrumenting.AssemblyInfo.cs
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\obj\Release\net6.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\bin\Release\net6.0\Instrumenting.exe
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\bin\Release\net6.0\Instrumenting.deps.json
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\bin\Release\net6.0\Instrumenting.runtimeconfig.json
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\bin\Release\net6.0\Instrumenting.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\bin\Release\net6.0\ref\Instrumenting.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\bin\Release\net6.0\Instrumenting.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\obj\Release\net6.0\Instrumenting.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\obj\Release\net6.0\ref\Instrumenting.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\obj\Release\net6.0\Instrumenting.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter04\Instrumenting\obj\Release\net6.0\Instrumenting.genruntimeconfig.cache

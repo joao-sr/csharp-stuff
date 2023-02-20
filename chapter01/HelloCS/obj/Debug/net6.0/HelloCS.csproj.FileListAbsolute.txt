@@ -1,0 +1,15 @@
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\bin\Debug\net6.0\HelloCS.exe
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\bin\Debug\net6.0\HelloCS.deps.json
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\bin\Debug\net6.0\HelloCS.runtimeconfig.json
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\bin\Debug\net6.0\HelloCS.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\bin\Debug\net6.0\ref\HelloCS.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\bin\Debug\net6.0\HelloCS.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\obj\Debug\net6.0\HelloCS.csproj.AssemblyReference.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\obj\Debug\net6.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfo.cs
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\obj\Debug\net6.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\obj\Debug\net6.0\HelloCS.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\obj\Debug\net6.0\ref\HelloCS.dll
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\obj\Debug\net6.0\HelloCS.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp\chapter01\HelloCS\obj\Debug\net6.0\HelloCS.genruntimeconfig.cache
