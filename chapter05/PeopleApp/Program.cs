@@ -150,6 +150,26 @@ namespace PeopleApp
             gt2.Data = "apple";
             WriteLine($"GenericThing with a string: {gt2.Process("apple")}");
 
+            string number1 = "4";
+            WriteLine($"{number1} squared is {Squarer.Square<string>(number1)}");
+
+            byte number2 = 3 ;
+            WriteLine($"{number2} squared is {Squarer.Square<int>(number2)}");
+
+            // displacement vectors structs
+            var dv1 = new DisplacementVector(3,5);
+            var dv2 = new DisplacementVector(-2, 7);
+            var dv3 = dv1+dv2;
+            WriteLine($"({dv1.X}, {dv1.Y}) + ({dv2.X},{dv2.Y}) = ({dv3.X},{dv3.Y})");
+
+            // inheritance
+            Employee john = new Employee{Name="John", DateOfBirth= new DateOnly(1972,3,3)};
+            john.WriteToConsole();
+
+            john.EmployeeCode = "E0001";
+            john.HireDate = new DateOnly(2023, 02, 02);
+
+            WriteLine($"{john.Name} was hired {john.HireDate}");
 
         }
     }
