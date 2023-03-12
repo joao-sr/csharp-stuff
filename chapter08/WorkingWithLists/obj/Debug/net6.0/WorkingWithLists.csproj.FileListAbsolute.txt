@@ -1,0 +1,15 @@
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\obj\Debug\net6.0\WorkingWithLists.csproj.AssemblyReference.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\obj\Debug\net6.0\WorkingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\obj\Debug\net6.0\WorkingWithLists.AssemblyInfoInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\obj\Debug\net6.0\WorkingWithLists.AssemblyInfo.cs
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\obj\Debug\net6.0\WorkingWithLists.csproj.CoreCompileInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\bin\Debug\net6.0\WorkingWithLists.exe
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\bin\Debug\net6.0\WorkingWithLists.deps.json
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\bin\Debug\net6.0\WorkingWithLists.runtimeconfig.json
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\bin\Debug\net6.0\WorkingWithLists.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\bin\Debug\net6.0\ref\WorkingWithLists.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\bin\Debug\net6.0\WorkingWithLists.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\obj\Debug\net6.0\WorkingWithLists.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\obj\Debug\net6.0\ref\WorkingWithLists.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\obj\Debug\net6.0\WorkingWithLists.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithLists\obj\Debug\net6.0\WorkingWithLists.genruntimeconfig.cache
