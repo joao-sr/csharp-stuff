@@ -1,0 +1,5 @@
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.csproj.AssemblyReference.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.AssemblyInfo.cs
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter08\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.csproj.CoreCompileInputs.cache

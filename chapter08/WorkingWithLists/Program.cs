@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Collections.Immutable;
 
 namespace WorkingWithList
 {
@@ -8,7 +9,7 @@ namespace WorkingWithList
         {
             var cities = new List<string>();
             cities.Add("London");
-            cities.Add("Parins");
+            cities.Add("Paris");
             cities.Add("Milan");
 
             System.Console.WriteLine("Initial List");
@@ -34,6 +35,22 @@ namespace WorkingWithList
             {
                 System.Console.WriteLine(city);
             }
+
+            var immutableCities = cities.ToImmutableList();
+            var newList = immutableCities.Add("Rio");
+            System.Console.Write("Immutable list of cities: ");
+            foreach(string city in immutableCities)
+            {
+                System.Console.Write($" {city}");
+            }
+            System.Console.WriteLine();
+
+            System.Console.Write("New list of cities: ");
+            foreach(string city in newList)
+            {
+                System.Console.Write($" {city}");
+            }
+            System.Console.WriteLine();
         }
     }
 }

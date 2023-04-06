@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vAaiFjNVs3JScatovo5vW1msS/Uh5ZLjG3WpYVKGI/BCvoaJrU7VTY7HF3CY8jXELuBzZxr4m1ZP8CRtsRSKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpsro\\Documents\\_code_programming\\csharp-stuff\\chapter07\\DotNetCoreEverywhere\\DotNetCoreEverywhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpsro\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\jpsro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.14\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\jpsro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\6.0.14\\microsoft.aspnetcore.app.runtime.osx-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\jpsro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.14\\microsoft.aspnetcore.app.runtime.win-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\jpsro\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.14\\microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\jpsro\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\6.0.14\\microsoft.netcore.app.host.osx-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\jpsro\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.14\\microsoft.netcore.app.runtime.linux-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\jpsro\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\6.0.14\\microsoft.netcore.app.runtime.osx-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\jpsro\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.14\\microsoft.netcore.app.runtime.win-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\jpsro\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
