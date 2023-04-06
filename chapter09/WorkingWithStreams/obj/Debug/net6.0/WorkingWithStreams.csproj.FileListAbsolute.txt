@@ -1,0 +1,15 @@
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.exe
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.deps.json
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\bin\Debug\net6.0\ref\WorkingWithStreams.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\obj\Debug\net6.0\ref\WorkingWithStreams.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.genruntimeconfig.cache
