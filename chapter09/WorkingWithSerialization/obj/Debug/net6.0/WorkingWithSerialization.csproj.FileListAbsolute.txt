@@ -1,0 +1,17 @@
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.exe
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.deps.json
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.runtimeconfig.json
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\bin\Debug\net6.0\ref\WorkingWithSerialization.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\ref\WorkingWithSerialization.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.pdb
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.genruntimeconfig.cache
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jpsro\Documents\_code_programming\csharp-stuff\chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CopyComplete
